@@ -221,7 +221,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: caadb3e1b831a2f45abd97dda8b6f6cf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  agent: {fileID: 1934928262251040, guid: 2cfd33fa0315efb4791f3807c6a58628, type: 2}
+  agentPrefab: {fileID: 1934928262251040, guid: 2cfd33fa0315efb4791f3807c6a58628,
+    type: 2}
   flock: []
   agentCount: 100
 --- !u!4 &982835674
